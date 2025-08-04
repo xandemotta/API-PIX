@@ -1,0 +1,7 @@
+/node_modules
+pagkage-lock.json
+.DS_Store
+.env
+dist
+coverage
+.vscode
